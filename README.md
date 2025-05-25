@@ -4,8 +4,7 @@
 
 ## 🔗 Демо
 
-Сервис доступен по адресу: [http://localhost:8000](http://localhost:8000)  
-Документация OpenAPI: [http://localhost:8000/docs](http://localhost:8000/docs)
+Сервис доступен по адресу: [https://pet-clinic-api.onrender.com/docs](https://pet-clinic-api.onrender.com/docs)  
 
 ## 📦 Возможности
 
