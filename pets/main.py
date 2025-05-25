@@ -64,6 +64,7 @@ async def create_dog(dog: Dog):
     dogs_db[dog.pk] = dog
     return dog
 
+
 @app.get("/dog/{pk}", summary="Get Dog By Pk", response_model=Dog, response_description="Successful Response")
 async def get_dog_pk(pk: int):
     if pk not in dogs_db:
